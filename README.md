@@ -7,3 +7,5 @@ This project should run by,
 3. npm start
 
 Run in localhost: http://localhost:3000/
+
+live URL :  https://swattik-git21.github.io/COVID-19_Tracker/ 
